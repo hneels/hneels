@@ -11,7 +11,7 @@ I'm a grad student at Boston University, pursuing an MS in Software Development 
 
 ### Technologies & Tools
 
-These are skills that I'm proficient at or currently learning--check out my projects below.
+These are skills that I'm proficient at or currently learning--you can check out video demos in my pinned projects below.
 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/66707636/177418846-a240c391-94b0-4202-b071-c60a4515b6d2.svg" alt="java" width="45px">
@@ -40,13 +40,13 @@ These are skills that I'm proficient at or currently learning--check out my proj
 
 Sections TODO
 
-Short intro: bio, tools, interests 
-
 My Favorite Projects section like YuriDevAT
 
 coursework section? / currently learning
 
-Most Used Languages banner
+publish java assignments to private repos
+
+host own vercel instance so java is shown in language bar
 
 
 
