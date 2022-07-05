@@ -15,7 +15,8 @@ These are skills that I'm proficient in or currently learning--check out my proj
 <img src="https://user-images.githubusercontent.com/66707636/177418998-d543d406-11ef-4c03-8c18-317ff7f467b7.svg" alt="python" width="40px">
 <img src="https://user-images.githubusercontent.com/66707636/177419055-26ba5165-81fe-44c4-9362-34358d0bc7c2.svg" alt="html" width="40px">
 <img src="https://user-images.githubusercontent.com/66707636/177419068-409bc96f-3591-4dc9-805b-fb6ad567f982.svg" alt="css" width="40px">
-
+<img src="https://user-images.githubusercontent.com/66707636/177420913-45f3bb5c-5977-4aae-860c-37b4e98d5d5f.svg" alt="django" width="40px">
+<img src="https://user-images.githubusercontent.com/66707636/177420946-ac22d6a3-1cc9-4c9f-9198-64cab3c0922f.svg" alt="node" width="40px">
 
 
 <!--
