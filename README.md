@@ -31,7 +31,7 @@ These are skills that I'm proficient at or currently learning--check out my proj
 <img src="https://user-images.githubusercontent.com/66707636/177422401-44f7f8aa-13dc-4966-b9c5-87673f0fafd3.svg" alt="git" width="45px">
  </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hneels&layout=compact)](https://github.com/hneels/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hneels&layout=compact&langs_count=6)](https://github.com/hneels/github-readme-stats)
 
  
  
