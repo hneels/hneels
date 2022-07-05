@@ -9,8 +9,6 @@ I'm a grad student at Boston University, pursuing an MS in Software Development 
 
 ### Technologies & Tools
 
-These are skills that I'm proficient at or currently learning--check out my projects below.
-
 <img src="https://user-images.githubusercontent.com/66707636/177418846-a240c391-94b0-4202-b071-c60a4515b6d2.svg" alt="java" width="40px">
 <img src="https://user-images.githubusercontent.com/66707636/177418858-237ac6e5-9511-4bd4-9355-df59d18f2f81.svg" alt="javascript" width="40px">
 <img src="https://user-images.githubusercontent.com/66707636/177418998-d543d406-11ef-4c03-8c18-317ff7f467b7.svg" alt="python" width="40px">
