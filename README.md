@@ -32,6 +32,7 @@ These are skills that I'm proficient at or currently learning--check out my proj
  </p>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hneels)](https://github.com/hneels/github-readme-stats)
 
 <!--
 
