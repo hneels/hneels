@@ -19,7 +19,7 @@ These are skills that I'm proficient at or currently learning--check out my proj
 <img src="https://user-images.githubusercontent.com/66707636/177419068-409bc96f-3591-4dc9-805b-fb6ad567f982.svg" alt="css" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177420913-45f3bb5c-5977-4aae-860c-37b4e98d5d5f.svg" alt="django" width="35px">
 <img src="https://user-images.githubusercontent.com/66707636/177420946-ac22d6a3-1cc9-4c9f-9198-64cab3c0922f.svg" alt="node" width="45px">
-<img src="https://user-images.githubusercontent.com/66707636/177421957-562cd30d-4b8b-4ca0-b672-5062abdb10f4.svg" alt="sql" width="45px">
+<img src="https://user-images.githubusercontent.com/66707636/177421957-562cd30d-4b8b-4ca0-b672-5062abdb10f4.svg" alt="sql" width="35px">
 <img src="https://user-images.githubusercontent.com/66707636/177422016-2758da9c-9482-421d-a438-7fc96f4c550a.svg" alt="mongodb" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177422094-23c9e1f6-5953-45ad-9df2-a171d2fcfb42.svg" alt="react" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177422153-1291e476-a073-461c-b194-9ebc123fb90d.svg" alt="vue" width="45px">
