@@ -3,10 +3,14 @@
 
 I'm a grad student at Boston University, pursuing an MS in Software Development and a graduate certificate in Web Application Development. Before making the switch to software development, I was a staff director at a mental health & addiction treatment center, and I'm excited about the intersection of technology and mental health care. If you are too, let's connect! 
 
+<p align="left">
 <a href="https://linkedin.com/in/hneels">
 <img src="https://user-images.githubusercontent.com/66707636/177416455-964d44cb-bdba-48bc-aae7-2b8f3a87b4b7.svg" alt="linkedin">
 </a>
-<img src="https://img.shields.io/badge/-Discord-ff6964?style=for-the-badge&logo=discord" alt="discord">
+<a href="https://discord.com/users/907628771916546118">
+<img src="https://user-images.githubusercontent.com/66707636/177555075-13e870ca-ad97-4228-b9dc-59200be06390.svg" alt="discord">
+ </a>
+ </p>
 
 <hr>
 
