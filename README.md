@@ -6,6 +6,7 @@ I'm a grad student at Boston University, pursuing an MS in Software Development 
 <a href="https://linkedin.com/in/hneels">
 <img src="https://user-images.githubusercontent.com/66707636/177416455-964d44cb-bdba-48bc-aae7-2b8f3a87b4b7.svg" alt="linkedin">
 </a>
+<img src="https://img.shields.io/badge/-Discord-ff6964?style=for-the-badge&logo=discord" alt="discord">
 
 <hr>
 
