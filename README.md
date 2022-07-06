@@ -8,7 +8,7 @@ I'm a grad student at Boston University, pursuing an MS in Software Development 
 <img src="https://user-images.githubusercontent.com/66707636/177416455-964d44cb-bdba-48bc-aae7-2b8f3a87b4b7.svg" alt="linkedin">
 </a>
 <a href="https://discord.com/users/907628771916546118">
-<img src="https://img.shields.io/badge/-Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
+<img src="https://img.shields.io/badge/-Discord-ff6964?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
  </a>
  </p>
 
