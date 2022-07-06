@@ -22,6 +22,7 @@ These are skills that I'm proficient at or currently learning--you can check out
 <img src="https://user-images.githubusercontent.com/66707636/177418846-a240c391-94b0-4202-b071-c60a4515b6d2.svg" alt="java" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177418858-237ac6e5-9511-4bd4-9355-df59d18f2f81.svg" alt="javascript" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177418998-d543d406-11ef-4c03-8c18-317ff7f467b7.svg" alt="python" width="45px">
+<img src="https://user-images.githubusercontent.com/66707636/177647422-f3910337-f56a-49f5-81fd-3e892c9a3e23.svg" alt="php" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177419055-26ba5165-81fe-44c4-9362-34358d0bc7c2.svg" alt="html" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177419068-409bc96f-3591-4dc9-805b-fb6ad567f982.svg" alt="css" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177420913-45f3bb5c-5977-4aae-860c-37b4e98d5d5f.svg" alt="django" width="35px">
@@ -51,9 +52,5 @@ coursework section? / currently learning
 
 publish java assignments to private repos
 
-host own vercel instance so java is shown in language bar
 
-
-
-Check out the video demos in my pinned projects below!
 -->
