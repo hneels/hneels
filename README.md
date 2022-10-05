@@ -31,6 +31,7 @@ These are skills that I'm proficient at or currently learning--you can check out
 <img src="https://user-images.githubusercontent.com/66707636/177422016-2758da9c-9482-421d-a438-7fc96f4c550a.svg" alt="mongodb" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177422094-23c9e1f6-5953-45ad-9df2-a171d2fcfb42.svg" alt="react" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177422153-1291e476-a073-461c-b194-9ebc123fb90d.svg" alt="vue" width="45px">
+<img src="https://user-images.githubusercontent.com/66707636/194048275-b2005fa6-c17f-4f44-bfd8-a0135b065604.svg" alt="angular" width="45px>
 <img src="https://user-images.githubusercontent.com/66707636/177422209-8223d64b-b119-4153-99b1-31bd67365ebe.svg" alt="bootstrap" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177422269-5848c9f4-60eb-4b7a-b040-345c9fbb210f.svg" alt="vscode" width="45px">
 <img src="https://user-images.githubusercontent.com/66707636/177422297-d7bf49ba-7610-423a-a7a0-9f2423f55d19.svg" alt="intellij" width="45px">
@@ -40,17 +41,3 @@ These are skills that I'm proficient at or currently learning--you can check out
 [![Top Langs](https://github-readme-stats-hneels.vercel.app/api/top-langs/?username=hneels&layout=compact&langs_count=6)](https://github.com/hneels/github-readme-stats)
 
  
- 
-<!--
-
-
-Sections TODO
-
-My Favorite Projects section like YuriDevAT
-
-coursework section? / currently learning
-
-publish java assignments to private repos
-
-
--->
