@@ -44,4 +44,4 @@ These are skills that I'm proficient at or currently learning--you can check out
  
  ### Pinned Projects
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hneels&repo=tiny-library)](https://github.com/hneels/github-readme-stats)
+ [![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=tiny-library)](https://github.com/hneels/tiny-library)
