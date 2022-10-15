@@ -22,8 +22,9 @@ I'm a grad student at Boston University pursuing an MS in Software Development w
 [![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=process-scheduler&theme=transparent)](https://github.com/hneels/process-scheduler)
 [![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=react-tenzies&theme=transparent)](https://github.com/hneels/react-tenzies)
 [![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=time-off-tracker&theme=transparent)](https://github.com/hneels/time-off-tracker)
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=social-network&theme=transparent)](https://github.com/hneels/social-network)
 [![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=design-patterns-term-project&theme=transparent)](https://github.com/hneels/design-patterns-term-project)
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=social-network&theme=transparent)](https://github.com/hneels/social-network)
+
 
 
 
