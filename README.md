@@ -16,20 +16,20 @@ I'm a grad student at Boston University pursuing an MS in Software Development w
 
  ### Pinned Projects
  
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=tiny-library)](https://github.com/hneels/tiny-library)
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=mindset-wellness)](https://github.com/hneels/mindset-wellness)
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=pure-training)](https://github.com/hneels/pure-training)
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=process-scheduler)](https://github.com/hneels/process-scheduler)
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=react-tenzies)](https://github.com/hneels/react-tenzies)
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=time-off-tracker)](https://github.com/hneels/time-off-tracker)
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=social-network)](https://github.com/hneels/social-network)
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=design-patterns-term-project)](https://github.com/hneels/design-patterns-term-project)
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=tiny-library&theme=transparent)](https://github.com/hneels/tiny-library)
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=mindset-wellness&theme=transparent)](https://github.com/hneels/mindset-wellness)
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=pure-training&theme=transparent)](https://github.com/hneels/pure-training)
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=process-scheduler&theme=transparent)](https://github.com/hneels/process-scheduler)
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=react-tenzies&theme=transparent)](https://github.com/hneels/react-tenzies)
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=time-off-tracker&theme=transparent)](https://github.com/hneels/time-off-tracker)
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=social-network&theme=transparent)](https://github.com/hneels/social-network)
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=design-patterns-term-project&theme=transparent)](https://github.com/hneels/design-patterns-term-project)
 
 
 
 ### Technologies & Tools
 
-These are skills that I'm proficient at or currently learning--you can check out video demos in my pinned projects below.
+These are skills that I'm proficient at or currently learning--you can check out video demos and hosted sites in my pinned projects above.
 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/66707636/177418846-a240c391-94b0-4202-b071-c60a4515b6d2.svg" alt="java" width="45px">
@@ -51,6 +51,6 @@ These are skills that I'm proficient at or currently learning--you can check out
 <img src="https://user-images.githubusercontent.com/66707636/177422401-44f7f8aa-13dc-4966-b9c5-87673f0fafd3.svg" alt="git" width="45px">
  </p>
 
-[![Top Langs](https://github-readme-stats-hneels.vercel.app/api/top-langs/?username=hneels&layout=compact&langs_count=6)](https://github.com/hneels/github-readme-stats)
+[![Top Langs](https://github-readme-stats-hneels.vercel.app/api/top-langs/?username=hneels&layout=compact&langs_count=6&theme=transparent)](https://github.com/hneels/github-readme-stats)
 
  
