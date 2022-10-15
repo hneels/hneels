@@ -1,5 +1,4 @@
 ### Hi, I'm Hope 👋
-<hr>
 
 I'm a grad student at Boston University pursuing an MS in Software Development with a concentration in Web App Development. Before making the switch to software development, I was a staff director at a mental health & addiction treatment center, and I'm excited about the intersection of technology and mental health care. If you are too, let's connect! 
 
@@ -25,8 +24,7 @@ I'm a grad student at Boston University pursuing an MS in Software Development w
 [![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=design-patterns-term-project&theme=transparent)](https://github.com/hneels/design-patterns-term-project)
 [![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=social-network&theme=transparent)](https://github.com/hneels/social-network)
 
-
-
+<hr>
 
 ### Technologies & Tools
 
