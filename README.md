@@ -14,6 +14,19 @@ I'm a grad student at Boston University pursuing an MS in Software Development w
 
 <hr>
 
+ ### Pinned Projects
+ 
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=tiny-library)](https://github.com/hneels/tiny-library)
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=mindset-wellness)](https://github.com/hneels/mindset-wellness)
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=pure-training)](https://github.com/hneels/pure-training)
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=process-scheduler)](https://github.com/hneels/process-scheduler)
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=react-tenzies)](https://github.com/hneels/react-tenzies)
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=time-off-tracker)](https://github.com/hneels/time-off-tracker)
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=social-network)](https://github.com/hneels/social-network)
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=design-patterns-term-project)](https://github.com/hneels/design-patterns-term-project)
+
+
+
 ### Technologies & Tools
 
 These are skills that I'm proficient at or currently learning--you can check out video demos in my pinned projects below.
@@ -40,8 +53,4 @@ These are skills that I'm proficient at or currently learning--you can check out
 
 [![Top Langs](https://github-readme-stats-hneels.vercel.app/api/top-langs/?username=hneels&layout=compact&langs_count=6)](https://github.com/hneels/github-readme-stats)
 
- <hr>
  
- ### Pinned Projects
- 
- [![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=tiny-library)](https://github.com/hneels/tiny-library)
