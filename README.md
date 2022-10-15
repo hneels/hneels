@@ -40,4 +40,8 @@ These are skills that I'm proficient at or currently learning--you can check out
 
 [![Top Langs](https://github-readme-stats-hneels.vercel.app/api/top-langs/?username=hneels&layout=compact&langs_count=6)](https://github.com/hneels/github-readme-stats)
 
+ <hr>
  
+ ### Pinned Projects
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hneels&repo=tiny-library)](https://github.com/hneels/github-readme-stats)
