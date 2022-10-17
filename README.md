@@ -16,7 +16,7 @@ I'm a grad student at Boston University pursuing an MS in Software Development w
  ### Pinned Projects
  
 [![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=tiny-library&theme=transparent)](https://github.com/hneels/tiny-library)
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=mindset-wellness&theme=transparent)](https://github.com/hneels/mindset-wellness)
+[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=mindset-wellness&bg_color=00000000)](https://github.com/hneels/mindset-wellness)
 [![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=pure-training&theme=transparent)](https://github.com/hneels/pure-training)
 [![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=process-scheduler&theme=transparent)](https://github.com/hneels/process-scheduler)
 [![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=react-tenzies&theme=transparent)](https://github.com/hneels/react-tenzies)
