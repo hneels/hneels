@@ -9,6 +9,10 @@ I'm a grad student at Boston University pursuing an MS in Software Development w
 <a href="https://discord.com/users/907628771916546118">
 <img src="https://img.shields.io/badge/-Discord-ff6964?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
  </a>
+ <a href="https://leetcode.com/hneels/">
+ <img src="https://img.shields.io/badge/-leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode">
+ </a>
+ 
  </p>
 
 <hr>
