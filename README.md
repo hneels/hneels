@@ -17,22 +17,10 @@ I'm a grad student at Boston University pursuing an MS in Software Development w
 
 <hr>
 
- ### Pinned Projects
- 
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=tiny-library&bg_color=00000000)](https://github.com/hneels/tiny-library)
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=mindset-wellness&bg_color=00000000)](https://github.com/hneels/mindset-wellness)
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=pure-training&bg_color=00000000)](https://github.com/hneels/pure-training)
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=process-scheduler&bg_color=00000000)](https://github.com/hneels/process-scheduler)
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=react-tenzies&bg_color=00000000)](https://github.com/hneels/react-tenzies)
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=time-off-tracker&bg_color=00000000)](https://github.com/hneels/time-off-tracker)
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=design-patterns-term-project&bg_color=00000000)](https://github.com/hneels/design-patterns-term-project)
-[![Readme Card](https://github-readme-stats-hneels.vercel.app/api/pin/?username=hneels&repo=social-network&bg_color=00000000)](https://github.com/hneels/social-network)
-
-<hr>
 
 ### Technologies & Tools
 
-These are skills that I'm proficient at or currently learning--you can check out video demos and hosted sites in my pinned projects above.
+These are skills that I'm proficient at or currently learning--you can check out video demos and hosted sites in my pinned projects below.
 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/66707636/177418846-a240c391-94b0-4202-b071-c60a4515b6d2.svg" alt="java" width="45px">
