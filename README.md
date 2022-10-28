@@ -12,9 +12,10 @@ I'm a grad student at Boston University pursuing an MS in Software Development w
 
  </a>
  <a href="https://leetcode.com/hneels/">
- <img src="https://img.shields.io/badge/-leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode">
+ <img src="https://user-images.githubusercontent.com/66707636/198589249-531ea4f3-4dc2-4f54-9a78-578b10ba0fc1.svg" alt="leetcode">
  </a>
- 
+
+
  </p>
 
 <hr>
