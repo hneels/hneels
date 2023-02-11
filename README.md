@@ -2,6 +2,7 @@
 
 I'm a junior developer working in Angular and Spring Boot and a recent MS grad in Software Development from Boston University. Before making the switch to software development, I was a staff director at a mental health & addiction treatment center, and I'm excited about the intersection of technology and mental health care. If you are too, let's connect! 
 
+
 <p align="left">
 <a href="https://linkedin.com/in/hneels">
 <img src="https://user-images.githubusercontent.com/66707636/177416455-964d44cb-bdba-48bc-aae7-2b8f3a87b4b7.svg" alt="linkedin">
@@ -13,6 +14,10 @@ I'm a junior developer working in Angular and Spring Boot and a recent MS grad i
  </a>
  <a href="https://leetcode.com/hneels/">
  <img src="https://user-images.githubusercontent.com/66707636/198589249-531ea4f3-4dc2-4f54-9a78-578b10ba0fc1.svg" alt="leetcode">
+ </a>
+                                                                                                                                
+ <a href="https://github.com/hopeneels">
+ <img src="https://img.shields.io/badge/-work%20github-brightgreen?style=for-the-badge&logo=github" alt="github">
  </a>
 
 
