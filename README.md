@@ -1,6 +1,6 @@
 ### Hi, I'm Hope 👋
 
-I'm a junior developer working in Angular and Spring Boot and an MS student in Software Development at Boston University. Before making the switch to software development, I was a staff director at a mental health & addiction treatment center, and I'm excited about the intersection of technology and mental health care. If you are too, let's connect! 
+I'm a junior developer working in Angular and Spring Boot and a recent MS grad in Software Development from Boston University. Before making the switch to software development, I was a staff director at a mental health & addiction treatment center, and I'm excited about the intersection of technology and mental health care. If you are too, let's connect! 
 
 <p align="left">
 <a href="https://linkedin.com/in/hneels">
